@@ -38,7 +38,7 @@ int main()
 
 	use dma
 	*/
-	baseDMA shirt("Portabelly", 8);
+	/*baseDMA shirt("Portabelly", 8);
 	lacksDMA balloon("red", "Blimpo", 4);
 	hasDMA map("Mercator", "Buffalo Keys", 5);
 
@@ -56,8 +56,29 @@ int main()
 	hasDMA map2;
 	map2 = map;
 	cout << "hasDMA 대입 결과 : \n";
-	cout << map2 << endl;
+	cout << map2 << endl;*/
 
+	/*
+	클래스 설계시 주의점
+
+	디폴트 생성자
+	복사 생성자
+		- 새 객체를 동일한 클래스의 다른 객체로 초기화할 떼
+		- 객체가 함수에 값으로 전달될 때
+		- 함수가 객체를 값으로 리턴할 때
+		- 컴파일러가 임시 객체를 생성할 때
+	대입 연산자
+
+	클래스 메서드에 관련된 그 밖의 고려사항
+	생성자 관련
+		-
+	파괴자 관련 사항
+		-
+	변환 관련 사항
+		-
+	값으로 전달과 참조로 전달
+		-
+	*/
 
 	return 0;
 }
