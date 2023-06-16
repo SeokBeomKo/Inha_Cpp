@@ -88,6 +88,9 @@
     <Filter Include="소스 파일\2023_06_16\Fruit">
       <UniqueIdentifier>{cb077d3e-c93d-40ff-afe5-88843a30a70a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\2023_06_16\dma">
+      <UniqueIdentifier>{43347323-dcd4-4af7-b5eb-f6bcae68446f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2023_05_25.cpp">
@@ -174,6 +177,9 @@
     <ClCompile Include="Fruit.cpp">
       <Filter>소스 파일\2023_06_16\Fruit</Filter>
     </ClCompile>
+    <ClCompile Include="dma.cpp">
+      <Filter>소스 파일\2023_06_16\dma</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="namesp.h">
@@ -223,6 +229,9 @@
     </ClInclude>
     <ClInclude Include="Fruit.h">
       <Filter>소스 파일\2023_06_16\Fruit</Filter>
+    </ClInclude>
+    <ClInclude Include="dma.h">
+      <Filter>소스 파일\2023_06_16\dma</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

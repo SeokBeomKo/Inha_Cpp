@@ -15,6 +15,10 @@ string Monster::GetName()
 	return name;
 }
 
+void FlyingMonster::Attack()
+{
+}
+
 FlyingMonster::FlyingMonster(string str, bool bFlying)
 	:Monster(str), isFlying(bFlying)
 {
