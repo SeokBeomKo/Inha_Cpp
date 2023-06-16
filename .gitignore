@@ -13,6 +13,10 @@
 *.opendb
 *.vs
 *.tlog
+*.vsidx
+*.suo
+
+17/
 Debug/
 
 # Precompiled Headers
