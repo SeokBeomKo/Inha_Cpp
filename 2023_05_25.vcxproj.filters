@@ -79,6 +79,12 @@
     <Filter Include="소스 파일\2023_06_15\String2">
       <UniqueIdentifier>{0c06529e-9aca-46f3-a52c-306557faf516}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\2023_06_16">
+      <UniqueIdentifier>{34d99c59-6c16-4150-bc3e-7a9ecc29e768}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2023_06_16\Monster">
+      <UniqueIdentifier>{583005ce-bfe1-4c0e-80bd-4cd82ca3beb3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2023_05_25.cpp">
@@ -156,6 +162,12 @@
     <ClCompile Include="String2.cpp">
       <Filter>소스 파일\2023_06_15\String2</Filter>
     </ClCompile>
+    <ClCompile Include="Monster.cpp">
+      <Filter>소스 파일\2023_06_16\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="2023_06_16.cpp">
+      <Filter>소스 파일\2023_06_16</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="namesp.h">
@@ -199,6 +211,9 @@
     </ClInclude>
     <ClInclude Include="String2.h">
       <Filter>소스 파일\2023_06_15\String2</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster.h">
+      <Filter>소스 파일\2023_06_16\Monster</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

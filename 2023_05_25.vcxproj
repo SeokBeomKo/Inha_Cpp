@@ -138,8 +138,10 @@
     <ClCompile Include="2023_06_14.cpp" />
     <ClCompile Include="2023_06_15.cpp" />
     <ClCompile Include="2023_06_08.cpp" />
+    <ClCompile Include="2023_06_16.cpp" />
     <ClCompile Include="BankAccount.cpp" />
     <ClCompile Include="Circle2D.cpp" />
+    <ClCompile Include="Monster.cpp" />
     <ClCompile Include="Move.cpp" />
     <ClCompile Include="MyPoint.cpp" />
     <ClCompile Include="namesp.cpp" />
@@ -157,6 +159,7 @@
   <ItemGroup>
     <ClInclude Include="BankAccount.h" />
     <ClInclude Include="Circle2D.h" />
+    <ClInclude Include="Monster.h" />
     <ClInclude Include="Move.h" />
     <ClInclude Include="MyPoint.h" />
     <ClInclude Include="namesp.h" />
