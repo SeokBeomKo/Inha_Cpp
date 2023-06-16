@@ -10,6 +10,10 @@
 *.lo
 *.o
 *.obj
+*.opendb
+*.vs
+*.tlog
+Debug/
 
 # Precompiled Headers
 *.gch
