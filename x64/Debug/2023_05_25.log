@@ -1,0 +1,2 @@
+﻿  2023_05_26.cpp
+C:\Users\218\source\repos\Inha2023\C++\2023_05_25\2023_05_26.cpp(46,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
